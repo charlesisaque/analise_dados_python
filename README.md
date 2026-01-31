@@ -12,13 +12,13 @@ Dashboard publicado:
 
 ## 🚀 Tecnologias Utilizadas
 
--   Python\
--   Pandas\
--   NumPy\
--   Matplotlib\
--   Seaborn\
--   Plotly\
--   Streamlit\
+-   Python
+-   Pandas
+-   NumPy
+-   Matplotlib
+-   Seaborn
+-   Plotly
+-   Streamlit
 -   PyCountry
 
 ------------------------------------------------------------------------
@@ -39,10 +39,10 @@ dados-imersao-final.csv
 
 ### Aula 1 --- Análise Exploratória
 
--   Leitura do CSV\
--   Inspeção inicial (`head`, `info`, `describe`)\
--   Renomeação de colunas\
--   Tradução de categorias\
+-   Leitura do CSV
+-   Inspeção inicial (`head`, `info`, `describe`)
+-   Renomeação de colunas
+-   Tradução de categorias
 -   Análise de variáveis categóricas
 
 Objetivo: entender o dataset e preparar os dados.
@@ -51,25 +51,25 @@ Objetivo: entender o dataset e preparar os dados.
 
 ### Aula 2 --- Limpeza de Dados
 
--   Verificação de valores nulos\
--   Preenchimento com média, mediana, ffill e bfill\
--   Remoção de linhas vazias\
+-   Verificação de valores nulos
+-   Preenchimento com média, mediana, ffill e bfill
+-   Remoção de linhas vazias
 -   Conversão de tipos
 
 ------------------------------------------------------------------------
 
 ### Aula 3 --- Visualização
 
--   Gráficos de barras\
--   Histogramas\
--   Boxplots\
--   Pizza / Donut\
+-   Gráficos de barras
+-   Histogramas
+-   Boxplots
+-   Pizza / Donut
 -   Mapa mundial de salários
 
 Bibliotecas usadas:
 
--   Seaborn\
--   Matplotlib\
+-   Seaborn
+-   Matplotlib
 -   Plotly
 
 ------------------------------------------------------------------------
@@ -78,10 +78,10 @@ Bibliotecas usadas:
 
 Funcionalidades:
 
--   Filtros por ano, senioridade, contrato e empresa\
--   KPIs principais\
--   Gráficos interativos\
--   Mapa mundial\
+-   Filtros por ano, senioridade, contrato e empresa
+-   KPIs principais
+-   Gráficos interativos
+-   Mapa mundial
 -   Tabela dinâmica
 
 ------------------------------------------------------------------------
@@ -102,12 +102,12 @@ Mac/Linux: source .venv/bin/activate
 
 ### requirements.txt
 
-pandas==2.2.3\
-streamlit==1.44.1\
-plotly==5.24.1\
-pycountry\
-seaborn\
-matplotlib\
+pandas==2.2.3
+streamlit==1.44.1
+plotly==5.24.1
+pycountry
+seaborn
+matplotlib
 numpy
 
 ------------------------------------------------------------------------
@@ -136,8 +136,8 @@ https://streamlit.io/cloud
 
 Demonstrar um fluxo completo de Data Analytics:
 
--   Exploração\
--   Limpeza\
+-   Exploração
+-   Limpeza
 -   Visualização\
 -   Storytelling\
 -   Dashboard interativo
